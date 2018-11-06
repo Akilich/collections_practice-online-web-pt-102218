@@ -4,5 +4,3 @@ def sort_array_asc
   a <=> b
 end
 end
-end
-
